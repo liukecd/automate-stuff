@@ -1,2 +1,2 @@
 # automate-stuff
-Exercises in "Automate The Boring Stuff with Python" by Al Sweigart
+Exercises in "Automate the Boring Stuff with Python" by Al Sweigart
